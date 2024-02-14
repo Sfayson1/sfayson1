@@ -47,7 +47,7 @@
 
 <p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/git.svg" width='40' height='40' title='git'/></p>
 
-<br>
+<br/>
 
 
 ## Connect with me  
