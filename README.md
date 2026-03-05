@@ -1,70 +1,46 @@
-## <div align="left">I'm Sherika  👩‍💻</div>  
-  ![image](https://github.com/Sfayson1/sfayson1/assets/137829671/a46b7452-6f82-4c69-8cd1-ef5aaf3fb3bc)
+  # Sherika Fayson                                          
 
+  **Software Engineer** · Orlando, FL · Open to Junior Software Engineer roles
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=sfayson1&&style=flat-square" align="center" />
-</div>  
+  I build full-stack web apps — bringing military precision and a software
+  engineering degree to every problem I solve. U.S. Marine Corps Aviation
+  Avionics Technician. A.S. Computer Information Science, ECPI University.
+  Member of [@Vets-Who-Code](https://github.com/Vets-Who-Code).
 
-  
+  [Portfolio](https://www.sherikafayson.com) ·
+  [LinkedIn](https://www.linkedin.com/in/sherika-fayson/) ·
+  [@RikaCodes](https://twitter.com/RikaCodes)
 
-- 🌱 I’m currently learning Git and GitHub  
-  
+  ---
 
-- ⚡ Fun fact: Cinnabon is the key to world peace  
-  
+  ## Featured Project
 
-<br/>  
+  ### [Luma](https://github.com/Sfayson1/Luma) — Mindful Journaling App
+  Private journaling with mood tracking and analytics — designed, built, and
+  deployed solo from first commit to production.
 
+  ![Lint](https://github.com/Sfayson1/Luma/actions/workflows/lint.yml/badge.svg)
+  ![Tests](https://github.com/Sfayson1/Luma/actions/workflows/test.yml/badge.svg
+  )
+  [![Coverage](https://codecov.io/gh/Sfayson1/Luma/branch/main/graph/badge.svg)]
+  (https://codecov.io/gh/Sfayson1/Luma)
 
-<h2 align="left">Skillset</h2>
+  `React` `TypeScript` `Python` `FastAPI` `PostgreSQL` `Neon` `Vercel` `Render`
 
-<h3 align="left">Programming Languages:</h3>
+  ---
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/javascript.svg" width='40' height='40' title='javascript'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/python.svg" width='40' height='40' title='python'/></p>
+  ## Skills
 
-<h3 align="left">Frontend Development:</h3>
+  **Frontend** · React · TypeScript · JavaScript · HTML · CSS · Tailwind CSS
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/reactjs.svg" width='40' height='40' title='reactjs'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/html.svg" width='40' height='40' title='html'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/sass.svg" width='40' height='40' title='sass'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/tailwind.svg" width='40' height='40' title='tailwind'/></p>
+  **Backend** · Python · FastAPI · Node.js · REST APIs
 
-<h3 align="left">Backend Development:</h3>
+  **Databases** · PostgreSQL · MySQL · NoSQL
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nodejs.svg" width='40' height='40' title='nodejs'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/express.svg" width='40' height='40' title='express'/></p>
+  **Tools** · Git · GitHub · Docker · Linux · Jira · Trello · Slack
 
-<h3 align="left">Database Management:</h3>
-
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mongodb.svg" width='40' height='40' title='mongodb'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mysql.svg" width='40' height='40' title='mysql'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/postgresql.svg" width='40' height='40' title='postgresql'/></p>
-
-<h3 align="left">Devops:</h3>
-
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/docker.svg" width='40' height='40' title='docker'/></p>
-
-<h3 align="left">Frameworks:</h3>
-
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Framework/django.svg" width='40' height='40' title='django'/></p>
-
-<h3 align="left">Others:</h3>
-
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/git.svg" width='40' height='40' title='git'/></p>
-
-<br/>
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/sfayson1" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/rikacodes" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/sfayson" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/sherika-fayson" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+  **Practices** · Full-Stack Development · Agile · CI/CD · Technical
+  Troubleshooting
   
 
 <br/>  
