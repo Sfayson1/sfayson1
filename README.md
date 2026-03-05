@@ -47,7 +47,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sfayson1&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+[![Sherika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sfayson1)](https://github.com/Sfayson1/github-readme-stats)
 
 <br/>  
 
