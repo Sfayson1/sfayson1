@@ -43,16 +43,14 @@
   Troubleshooting
   
 
-<br/>  
+---
 
 
-  ![Sherika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=
-  Sfayson1&show_icons=true&hide_border=true&count_private=true&theme=default)
+ ## GitHub Stats
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?usernam
-  e=Sfayson1&layout=compact&hide_border=true&theme=default)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Sfayson1&hide_border=true)](https://git.io/streak-stats)
 
-<br/>  
+---
 
 
 ## Recent Blog Posts  
