@@ -20,10 +20,8 @@
   deployed solo from first commit to production.
 
   ![Lint](https://github.com/Sfayson1/Luma/actions/workflows/lint.yml/badge.svg)
-  ![Tests](https://github.com/Sfayson1/Luma/actions/workflows/test.yml/badge.svg
-  )
-  [![Coverage](https://codecov.io/gh/Sfayson1/Luma/branch/main/graph/badge.svg)]
-  (https://codecov.io/gh/Sfayson1/Luma)
+  ![Tests](https://github.com/Sfayson1/Luma/actions/workflows/test.yml/badge.svg  )
+  [![Coverage](https://codecov.io/gh/Sfayson1/Luma/branch/main/graph/badge.svg)](https://codecov.io/gh/Sfayson1/Luma)
 
   `React` `TypeScript` `Python` `FastAPI` `PostgreSQL` `Neon` `Vercel` `Render`
 
