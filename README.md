@@ -46,8 +46,11 @@
 <br/>  
 
 
-## Github Stats  
-[![Sherika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sfayson1)](https://github.com/Sfayson1/github-readme-stats)
+  ![Sherika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=
+  Sfayson1&show_icons=true&hide_border=true&count_private=true&theme=default)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?usernam
+  e=Sfayson1&layout=compact&hide_border=true&theme=default)
 
 <br/>  
 
