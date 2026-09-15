@@ -25,8 +25,3 @@ A.S. Computer & Information Science, ECPI University · @Vets-Who-Code alum
 | Backend | Python, FastAPI, REST APIs |
 | Data | PostgreSQL, SQL |
 | DevOps | Git, Docker, Linux, CI/CD |
-
- ## GitHub Stats
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Sfayson1&hide_border=true)](https://git.io/streak-stats)
-
