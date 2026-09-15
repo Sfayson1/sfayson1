@@ -5,7 +5,7 @@ I ship production web apps end to end. As a U.S. Marine Corps avionics technicia
 
 A.S. Computer Information Science, ECPI University · @Vets-Who-Code alum
 
-[Portfolio](https://www.sherikafayson.com) · [LinkedIn](https://www.linkedin.com/in/sherika-fayson/)· [Email](mailto:[sfayson71@gmail.com])
+[Portfolio](https://www.sherikafayson.com) · [LinkedIn](https://www.linkedin.com/in/sherika-fayson/)· [Email](mailto:sfayson71@gmail.com)
 
 ---
 
