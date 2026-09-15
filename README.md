@@ -3,7 +3,8 @@
 
 I ship production web apps end to end. As a U.S. Marine Corps avionics technician I diagnosed complex systems under pressure, and I bring that discipline to debugging and delivery.
 
-A.S. Computer Information Science, ECPI University · @Vets-Who-Code alum
+B.S. Information Technology — Software Development & Coding, ECPI University (Expected May 2027)  
+A.S. Computer & Information Science, ECPI University · @Vets-Who-Code alum
 
 [Portfolio](https://www.sherikafayson.com) · [LinkedIn](https://www.linkedin.com/in/sherika-fayson/)· [Email](mailto:sfayson71@gmail.com)
 
@@ -15,7 +16,7 @@ A.S. Computer Information Science, ECPI University · @Vets-Who-Code alum
 - *Problem:* Journaling apps lack privacy or give no insight into mood trends.
 - *Built:* Private journaling with mood tracking and analytics.
 - *Architecture:* React/TypeScript → FastAPI REST API → PostgreSQL
-- *Engineering:* [auth] · [tests + coverage] · [CI/CD]
+- *Engineering:* Clerk authentication · Row Level Security · API validation
 
 ## Core Stack
 | Layer | Tools |
