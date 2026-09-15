@@ -1,70 +1,31 @@
-  # Sherika Fayson                                          
+# Sherika Fayson
+*Full-Stack Engineer (React · TypeScript · Python)* · Orlando, FL · Open to Junior SWE roles
 
-  **Software Engineer** · Orlando, FL · Open to Junior Software Engineer roles
+I ship production web apps end to end. As a U.S. Marine Corps avionics technician I diagnosed complex systems under pressure, and I bring that discipline to debugging and delivery.
 
-  I build full-stack web apps — bringing military precision and a software
-  engineering degree to every problem I solve. U.S. Marine Corps Aviation
-  Avionics Technician. A.S. Computer Information Science, ECPI University.
-  Member of [@Vets-Who-Code](https://github.com/Vets-Who-Code).
+A.S. Computer Information Science, ECPI University · @Vets-Who-Code alum
 
-  [Portfolio](https://www.sherikafayson.com) ·
-  [LinkedIn](https://www.linkedin.com/in/sherika-fayson/) ·
-  [@RikaCodes](https://twitter.com/RikaCodes)
-
-  ---
-
-  ## Featured Project
-
-  ### [Luma](https://github.com/Sfayson1/Luma) — Mindful Journaling App
-  Private journaling with mood tracking and analytics — designed, built, and
-  deployed solo from first commit to production.
-
-  ![Lint](https://github.com/Sfayson1/Luma/actions/workflows/lint.yml/badge.svg)
-  ![Tests](https://github.com/Sfayson1/Luma/actions/workflows/test.yml/badge.svg  )
-  [![Coverage](https://codecov.io/gh/Sfayson1/Luma/branch/main/graph/badge.svg)](https://codecov.io/gh/Sfayson1/Luma)
-
-  `React` `TypeScript` `Python` `FastAPI` `PostgreSQL` `Neon` `Vercel` `Render`
-
-  ---
-
-  ## Skills
-
-  **Frontend** · React · TypeScript · JavaScript · HTML · CSS · Tailwind CSS
-
-  **Backend** · Python · FastAPI · Node.js · REST APIs
-
-  **Databases** · PostgreSQL · MySQL · NoSQL
-
-  **Tools** · Git · GitHub · Docker · Linux · Jira · Trello · Slack
-
-  **Practices** · Full-Stack Development · Agile · CI/CD · Technical
-  Troubleshooting
-  
+[Portfolio](https://www.sherikafayson.com) · [LinkedIn](https://www.linkedin.com/in/sherika-fayson/)· [Email](mailto:[sfayson71@gmail.com])
 
 ---
 
+## Featured: Luma — Mindful Journaling App
+*[Live Demo](https://www.lumajournal.com/demo)* · Solo-built, from first commit to production
+
+- *Problem:* Journaling apps lack privacy or give no insight into mood trends.
+- *Built:* Private journaling with mood tracking and analytics.
+- *Architecture:* React/TypeScript → FastAPI REST API → PostgreSQL
+- *Engineering:* [auth] · [tests + coverage] · [CI/CD]
+
+## Core Stack
+| Layer | Tools |
+|---|---|
+| Frontend | React, TypeScript, JavaScript |
+| Backend | Python, FastAPI, REST APIs |
+| Data | PostgreSQL, SQL |
+| DevOps | Git, Docker, Linux, CI/CD |
 
  ## GitHub Stats
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=Sfayson1&hide_border=true)](https://git.io/streak-stats)
-
----
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
 
