@@ -1,0 +1,93 @@
+{
+    "name": "Sherika Fayson",
+    "headline": "Full-Stack Engineer (React · TypeScript · Python) · Orlando, FL · Open to Junior Software Engineering roles",
+    "summary": "I ship production web apps end to end. As a U.S. Marine Corps avionics technician I diagnosed complex systems under pressure, and I bring that discipline to debugging and delivery.",
+    "profile_section": {
+        "title": "Engineer Profile",
+        "role": "Full-Stack Engineer",
+        "focus": [
+            "React",
+            "TypeScript",
+            "Python"
+        ],
+        "location": "Orlando, FL",
+        "status": "Open to Junior Software Engineering roles"
+    },
+    "links": {
+        "Portfolio": {
+            "url": "https://www.sherikafayson.com/",
+            "color": "F47A61"
+        },
+        "LinkedIn": {
+            "url": "https://www.linkedin.com/in/sherika-fayson/",
+            "color": "27B3B1"
+        },
+        "Email": {
+            "url": "mailto:sfayson71@gmail.com",
+            "color": "163B67"
+        }
+    },
+    "featured_projects": [
+        {
+            "name": "Luma",
+            "subtitle": "Mindful Journaling App",
+            "demo": "https://www.lumajournal.com/demo",
+            "repository": "https://github.com/Sfayson1/Luma",
+            "role": "Solo-built, from first commit to production",
+            "problem": "Journaling apps lack privacy or give no insight into mood trends.",
+            "built": "Private journaling with mood tracking and analytics.",
+            "architecture": [
+                "React/TypeScript",
+                "FastAPI REST API",
+                "PostgreSQL"
+            ],
+            "engineering": [
+                "Clerk authentication",
+                "Row Level Security",
+                "API validation"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Information Technology",
+            "program": "Software Development & Coding",
+            "track": "User Experience and Web/Mobile Development",
+            "school": "ECPI University",
+            "graduation": "April 2027"
+        },
+        {
+            "degree": "Associate of Science in Computer & Information Science",
+            "program": "Software Development",
+            "school": "ECPI University",
+            "graduation": "2025"
+        }
+    ],
+    "currently_learning": [
+        "Python & Object-Oriented Programming",
+        "Data Structures & Algorithms",
+        "System Design"
+    ],
+    "skills": {
+        "Frontend": [
+            "React",
+            "TypeScript",
+            "JavaScript"
+        ],
+        "Backend": [
+            "Python",
+            "FastAPI",
+            "REST APIs"
+        ],
+        "Data": [
+            "PostgreSQL",
+            "SQL"
+        ],
+        "DevOps": [
+            "Git",
+            "Docker",
+            "Linux",
+            "CI/CD"
+        ]
+    }
+}
