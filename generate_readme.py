@@ -86,13 +86,16 @@ def generate_projects(profile):
         project_section += f"*{project['subtitle']}*\n\n"
 
         project_section += (
-            f'<a href="{project["demo"]}">'
-            f'<img src="assets/button-live-demo.png" alt="Live Demo" height="34">'
-            f"</a> "
             f'<a href="{project["repository"]}">'
             f'<img src="assets/button-repository.png" alt="Repository" height="34">'
             f"</a>\n\n"
         )
+
+        if project.get("media"):
+            project_section += (
+                f'<img src="{project["media"]}" '
+                f'alt="{project["name"]} demo" width="220">\n\n'
+            )
 
         project_section += f"*{project['role']}*\n\n"
         project_section += "</div>\n\n"

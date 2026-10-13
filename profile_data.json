@@ -1,6 +1,6 @@
 {
     "name": "Sherika Fayson",
-    "headline": "Full-Stack Engineer (React · TypeScript · Python) · Orlando, FL · Open to Junior Software Engineering roles",
+    "headline": "Full-Stack Engineer (React · TypeScript · Python) · Orlando, FL · Open to Software Engineering roles",
     "summary": "I ship production web apps end to end. As a U.S. Marine Corps avionics technician I diagnosed complex systems under pressure, and I bring that discipline to debugging and delivery.",
     "profile_section": {
         "title": "Engineer Profile",
@@ -11,7 +11,7 @@
             "Python"
         ],
         "location": "Orlando, FL",
-        "status": "Open to Junior Software Engineering roles"
+        "status": "Open to Software Engineering roles"
     },
     "links": {
         "Portfolio": {
@@ -29,22 +29,22 @@
     },
     "featured_projects": [
         {
-            "name": "Luma",
-            "subtitle": "Mindful Journaling App",
-            "demo": "https://www.lumajournal.com/demo",
-            "repository": "https://github.com/Sfayson1/Luma",
-            "role": "Solo-built, from first commit to production",
-            "problem": "Journaling apps lack privacy or give no insight into mood trends.",
-            "built": "Private journaling with mood tracking and analytics.",
+            "name": "ResourceHub",
+            "subtitle": "Community Resource & Budgeting Android App",
+            "repository": "https://github.com/Sfayson1/ResourceHub",
+            "media": "https://raw.githubusercontent.com/Sfayson1/ResourceHub/master/assets/resourcehub.gif",
+            "role": "Solo-built Android prototype in five weeks",
+            "problem": "People seeking essential services often have to search across multiple sources for housing, food, jobs, and utility assistance.",
+            "built": "A mobile app for searching community resources with category filters, favorites, and personal budget tracking.",
             "architecture": [
-                "React/TypeScript",
-                "FastAPI REST API",
-                "PostgreSQL"
+                "Kotlin",
+                "Android",
+                "XML"
             ],
             "engineering": [
-                "Clerk authentication",
-                "Row Level Security",
-                "API validation"
+                "ZIP code search",
+                "SharedPreferences",
+                "Local persistence"
             ]
         }
     ],
