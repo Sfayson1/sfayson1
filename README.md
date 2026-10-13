@@ -11,7 +11,7 @@
   <br><br>
   I ship production web apps end to end. As a U.S. Marine Corps avionics technician I diagnosed complex systems under pressure, and I bring that discipline to debugging and delivery.
   <br><br>
-  📍 Orlando, FL · 🟢 Open to Junior Software Engineering roles
+  📍 Orlando, FL · 🟢 Open to Software Engineering roles
 </p>
 
 <p align="center"><a href="https://www.sherikafayson.com/"><img src="assets/button-portfolio.png" alt="Portfolio" height="34"></a> <a href="https://www.linkedin.com/in/sherika-fayson/"><img src="assets/button-linkedin.png" alt="LinkedIn" height="34"></a> <a href="mailto:sfayson71@gmail.com"><img src="assets/button-email.png" alt="Email" height="34"></a></p>
@@ -22,24 +22,26 @@
 
 <div align="center">
 
-### Luma
+### ResourceHub
 
-*Mindful Journaling App*
+*Community Resource & Budgeting Android App*
 
-<a href="https://www.lumajournal.com/demo"><img src="assets/button-live-demo.png" alt="Live Demo" height="34"></a> <a href="https://github.com/Sfayson1/Luma"><img src="assets/button-repository.png" alt="Repository" height="34"></a>
+<a href="https://github.com/Sfayson1/ResourceHub"><img src="assets/button-repository.png" alt="Repository" height="34"></a>
 
-*Solo-built, from first commit to production*
+<img src="https://raw.githubusercontent.com/Sfayson1/ResourceHub/master/assets/resourcehub.gif" alt="ResourceHub demo" width="220">
+
+*Solo-built Android prototype in five weeks*
 
 </div>
 
 <table>
   <tr>
-    <td width="50%"><strong>Problem</strong><br>Journaling apps lack privacy or give no insight into mood trends.</td>
-    <td width="50%"><strong>Built</strong><br>Private journaling with mood tracking and analytics.</td>
+    <td width="50%"><strong>Problem</strong><br>People seeking essential services often have to search across multiple sources for housing, food, jobs, and utility assistance.</td>
+    <td width="50%"><strong>Built</strong><br>A mobile app for searching community resources with category filters, favorites, and personal budget tracking.</td>
   </tr>
   <tr>
-    <td width="50%"><strong>Architecture</strong><br>React/TypeScript → FastAPI REST API → PostgreSQL</td>
-    <td width="50%"><strong>Engineering</strong><br>Clerk authentication · Row Level Security · API validation</td>
+    <td width="50%"><strong>Architecture</strong><br>Kotlin → Android → XML</td>
+    <td width="50%"><strong>Engineering</strong><br>ZIP code search · SharedPreferences · Local persistence</td>
   </tr>
 </table>
 
