@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>Full-Stack Engineer</strong> | React · TypeScript · Python
+  <strong>Software Engineer</strong> | React · TypeScript · Python
   <br><br>
   I ship production web apps end to end. As a U.S. Marine Corps avionics technician I diagnosed complex systems under pressure, and I bring that discipline to debugging and delivery.
   <br><br>
