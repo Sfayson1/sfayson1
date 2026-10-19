@@ -1,0 +1,42 @@
+name: Update README
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - profile_data.json
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Setup Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install pillow
+
+      - name: Validate profile data
+        run: python validator.py
+
+      - name: Generate graphics
+        run: python generate_graphics.py
+
+      - name: Generate README
+        run: python generate_readme.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/
+          git diff --cached --quiet || git commit -m "Regenerate README from profile_data.json"
+          git push
